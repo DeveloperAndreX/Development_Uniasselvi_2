@@ -13,3 +13,5 @@
 # 6. Antes da navegação, será necessario um cadastramento do aluno com as informações basicas da instituição, nome, idade, curso, e matricula academica RA. Após essas informações serem preenchidas, utilizaremos um metodo de validação das informações e caracteres, além de ser necessario a criação de um banco de dados MYSQL para armazenamento das informações.
 
 # 7. O desenvolvimento seguira o roteiro, de ser totalmente didatico e funcional para o apredizado do Aluno.
+
+# 8 O sistema de banco de dados foi criado para armazenar dados dos usuarios cadastrados.
